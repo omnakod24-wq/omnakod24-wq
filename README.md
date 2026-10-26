@@ -36,7 +36,10 @@ I'm a Computer Science student at **SRTM University**, interested in **Data Anal
 ## 📚 Currently Learning
 
 - Python and programming fundamentals
-- Java, C, C++, and C#
+- Java
+- C
+- C++
+- C#
 - Data Structures and Algorithms (DSA)
 - SQL and Database Management
 - Data Analysis and Visualization
@@ -44,14 +47,20 @@ I'm a Computer Science student at **SRTM University**, interested in **Data Anal
 
 ---
 
-## 🎯 My Goals
+## 🚀 Skills & Learning Goals
 
-- Build useful, real-world projects
-- Improve my programming and analytical skills
-- Practice DSA and problem-solving consistently
-- Explore Data Science, Machine Learning, AI, and Business Intelligence
-- Contribute to open-source projects
-- Grow as a technology professional
+- 🐍 **Python:** Learning fundamentals and building practical programs.
+- ☕ **Java:** Developing programming skills and practicing coding problems.
+- 💻 **C & C++:** Strengthening programming fundamentals and logical thinking.
+- 🟣 **C#:** Exploring object-oriented programming and application development.
+- 🧠 **DSA & Problem-Solving:** Practicing coding challenges and aiming to solve at least 5 problems per week.
+- 📊 **Data Analytics & Visualization:** Learning to analyze data and present insights effectively.
+- 🗄️ **SQL & Databases:** Practicing queries, data manipulation, and database management.
+- 🤖 **Data Science, Machine Learning & AI:** Exploring core concepts and developing hands-on projects.
+- 📈 **Business Intelligence:** Learning data-driven decision-making and business reporting.
+- 🚀 **Real-World Projects:** Building and documenting practical projects to strengthen my portfolio.
+- 🌐 **Open Source:** Contributing to projects and learning from the developer community.
+- 🌱 **Professional Growth:** Continuously improving my technical, analytical, and problem-solving skills.
 
 ---
 
@@ -59,7 +68,41 @@ I'm a Computer Science student at **SRTM University**, interested in **Data Anal
 
 I'm always interested in connecting with people working in:
 
-**Data Science • Machine Learning • Data Analytics • AI • Business Intelligence**
+## 🛠️ Skills & Interests
+
+### 💻 Programming Languages
+- 🐍 Python
+- ☕ Java
+- 💻 C
+- ⚙️ C++
+- 🟣 C#
+
+### 🧠 Computer Science Fundamentals
+- Data Structures and Algorithms (DSA)
+- Problem-Solving
+- Programming Logic
+
+### 🗄️ Databases
+- SQL
+- Database Management
+- Data Querying
+
+### 📊 Data Analytics & Visualization
+- Data Analysis
+- Data Visualization
+- Business Intelligence (BI)
+- Data-Driven Decision-Making
+
+### 🤖 Data Science & AI
+- Data Science
+- Machine Learning (ML)
+- Artificial Intelligence (AI)
+
+### 🚀 Projects & Continuous Learning
+- Building Real-World Projects
+- Exploring New Technologies
+- Open-Source Contributions
+- Continuous Skill Development
 
 ### 📫 Contact Me
 
@@ -69,4 +112,4 @@ I'm always interested in connecting with people working in:
 
 ---
 
-**"Learn continuously. Build consistently. Improve daily."** 🚀
+From learning fundamentals to building real-world solutions.
