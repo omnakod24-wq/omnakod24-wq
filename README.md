@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Om 👋
 
-<!--
-**omnakod24-wq/omnakod24-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Sc. Computer Science Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a Computer Science student at **SRTM University**, passionate about **Data Analytics, Python, SQL, and Problem-Solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, analyzing data, and building practical projects to improve my technical skills.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Sc. Computer Science Student
+- 🐍 Learning Python Programming
+- 📊 Interested in Data Analytics and Visualization
+- 🗄️ Exploring SQL and Databases
+- 🧠 Passionate about Problem-Solving
+- 🌱 Continuously learning and building projects
+
+---
+
+## 🛠️ Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- Python Fundamentals
+- Data Structures and Algorithms
+- SQL and Database Management
+- Data Analysis
+- Git and GitHub
+
+---
+
+## 🎯 My Goals
+
+- Build real-world projects
+- Improve programming and analytical skills
+- Contribute to open-source projects
+- Grow as a technology professional
+
+---
+
+## 🤝 Connect With Me
+
+- 🐙 GitHub: [My GitHub Profile](https://github.com/omnakod24-wq)
+
+---
+
+**"Learn continuously. Build consistently. Improve daily."** 🚀
