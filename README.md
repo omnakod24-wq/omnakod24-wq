@@ -2,7 +2,7 @@
 
 ### B.Sc. Computer Science Student | Aspiring Data Analyst
 
-I'm a Computer Science student at **SRTM University**, interested in **Data Analytics, Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence**. I'm learning **Python, Java, C, C++, and C#**, practicing Data Structures and Algorithms (DSA), and building practical projects to strengthen my programming, analytical, and problem-solving skills step by step.
+I'm a Computer Science student at **SRTM University**, interested in **Data Analytics, Data Science, Machine Learning, AI, and Business Intelligence**. I'm learning **Python, Java, C, C++, and C#**, practicing DSA, and building projects to improve my programming and problem-solving skills.
 ---
 
 ## 🚀 About Me
