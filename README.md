@@ -2,26 +2,31 @@
 
 ### B.Sc. Computer Science Student | Aspiring Data Analyst
 
-I'm a Computer Science student at **SRTM University**, passionate about **Data Analytics, Python, SQL, and Problem-Solving**.
-
-I enjoy learning new technologies, analyzing data, and building practical projects to improve my technical skills.
+I'm a Computer Science student at **SRTM University**, interested in **Data Analytics, Data Science, Machine Learning, AI, and Business Intelligence**. I'm learning programming, solving DSA problems, and building my technical skills step by step.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Sc. Computer Science Student
-- 🐍 Learning Python Programming
-- 📊 Interested in Data Analytics and Visualization
+- 🎓 B.Sc. Computer Science Student at SRTM University
+- 🐍 Learning Python
+- ☕ Learning Java
+- 💻 Learning C and C++
+- 🟣 Learning C#
+- 🧠 Practicing Data Structures and Algorithms (DSA) problem-solving
+- 📊 Interested in Data Analytics and Data Visualization
 - 🗄️ Exploring SQL and Databases
-- 🧠 Passionate about Problem-Solving
-- 🌱 Continuously learning and building projects
+- 🌱 Always learning and working on practical projects
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -30,26 +35,37 @@ I enjoy learning new technologies, analyzing data, and building practical projec
 
 ## 📚 Currently Learning
 
-- Python Fundamentals
-- Data Structures and Algorithms
+- Python and programming fundamentals
+- Java, C, C++, and C#
+- Data Structures and Algorithms (DSA)
 - SQL and Database Management
-- Data Analysis
+- Data Analysis and Visualization
 - Git and GitHub
 
 ---
 
 ## 🎯 My Goals
 
-- Build real-world projects
-- Improve programming and analytical skills
+- Build useful, real-world projects
+- Improve my programming and analytical skills
+- Practice DSA and problem-solving consistently
+- Explore Data Science, Machine Learning, AI, and Business Intelligence
 - Contribute to open-source projects
 - Grow as a technology professional
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-- 🐙 GitHub: [My GitHub Profile](https://github.com/omnakod24-wq)
+I'm always interested in connecting with people working in:
+
+**Data Science • Machine Learning • Data Analytics • AI • Business Intelligence**
+
+### 📫 Contact Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/om-nakod](https://www.linkedin.com/in/om-nakod/)
+- 🐙 **GitHub:** [github.com/omnakod24-wq](https://github.com/omnakod24-wq)
+- 📍 **Location:** Nanded, Maharashtra, India
 
 ---
 
